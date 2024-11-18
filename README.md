@@ -78,15 +78,15 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 If you have warpcast account, you can claim $FDOG that calculated by your accounts age on warpcast.
 Link : [HERE](https://farcasterdog.xyz/referral/235976)
 
-➖ Login Warpcast and the link
-➖ Check "Farcaster Contributor" to earn $FDOG
-➖ Complete all social task
-✅ Done!
+- Login Warpcast and the link
+- Check "Farcaster Contributor" to earn $FDOG
+- Complete all social task
+- Done!
 
 But if you don't have warpcast, You can join warpcast first [Here](https://warpcast.com/~/invite-page/235976?id=0e3f3912) , it still worth to create a warpcast/farcaster accounts. 
-➖ Create Warpcast Account
-➖ Link your wallet on settings > verified address (Connect new wallet that will be used for warpcast / BURNER)
-➖ Open the link and earn $FDOG from daily task
+- Create Warpcast Account
+- Link your wallet on settings > verified address (Connect new wallet that will be used for warpcast / BURNER)
+- Open the link and earn $FDOG from daily task
 
 Details:
 https://x.com/Farcasterdog/status/1856586852901499068
